@@ -6,6 +6,6 @@ public class Feature1 {
 
         System.out.println("feature2 is added");
 
-        System.out.println("feature3 is added");
+        System.out.println("feature3.1 is added");
     }
 }
