@@ -6,6 +6,10 @@ public class Feature1 {
 
         System.out.println("feature2 is added");
 
+<<<<<<< HEAD
         System.out.println("feature3.1 is added");
+=======
+        System.out.println("feature2.1.0 is added");
+>>>>>>> conflict
     }
 }
